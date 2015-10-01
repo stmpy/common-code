@@ -11,8 +11,10 @@
   "devDependencies": {
     "bower": "^1.5.3",
     "grunt": "^0.4.5",
+    "grunt-bump": "^0.6.0",
+    "grunt-contrib-coffee": "^0.13.0",
+    "grunt-contrib-watch": "^0.6.1",
     "grunt-load-options": "^0.2.1",
-    "grunt-npm-install": "^0.2.0",
     "load-grunt-tasks": "^3.3.0"
   }
 }
